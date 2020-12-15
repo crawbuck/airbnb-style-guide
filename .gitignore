@@ -1,6 +1,7 @@
 # DIST #
 ######################
 dist/
+development
 
 # NODES MODULES #
 ######################
@@ -13,3 +14,4 @@ node_modules/
 *.html
 temp
 .DS_Store
+.cache/
