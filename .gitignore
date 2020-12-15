@@ -1,0 +1,15 @@
+# DIST #
+######################
+dist/
+
+# NODES MODULES #
+######################
+node_modules/
+
+# CACHE FILES #
+#####################
+.sass-cache
+*.map
+*.html
+temp
+.DS_Store
